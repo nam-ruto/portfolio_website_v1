@@ -66,7 +66,7 @@ st.write('\n')
 st.subheader("Qualifications")
 st.write(
     """
-- ✅ Expereince in building the Data Pipeline and the ETL process
+- ✅ Experience in building the Data Pipeline and the ETL process
 - ✅ Good understanding of Data Modeling and Query Optimization
 - ✅ Excellent team-player and displaying strong sense of initiative on tasks
 - ✅ Strong hands on experience and knowledge in many programming language
